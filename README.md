@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Programming 
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on Python Projects.
-- 📫 How to reach me ,E Mail Id: prajwal.p.vaidya@gamil.com
+- 📫 How to reach me ,E Mail Id: prajwal.p.vaidya@gmail.com
 
 <!---
 prajwalVAIDYA/prajwalVAIDYA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
