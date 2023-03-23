@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and Python.
 - 💞️ I’m looking to collaborate on Data Science and AI Projects.
 - 🏫 I'm currently studying at Dr. D. Y. Patil Institute of Technology, Pimpri, Pune.
-- 🎓 I am pursuing B.E. in Artificial Intelligence and Data Science. 
+- 🎓 I am pursuing B.E. in Artificial Intelligence and Data Science-2024 Batch. 
 - 📫 How to reach me, 
         📧 email Id: prajwal_4257@yahoo.com
 
