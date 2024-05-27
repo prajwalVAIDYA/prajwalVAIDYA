@@ -24,21 +24,6 @@ Welcome to my GitHub profile! I'm passionate about Data Science and Machine Lear
 
 ---
 
-## Projects and Contributions
-
-Here are some highlights of my work and contributions:
-
-- **Project 1**: [Project Name](link to the project)
-  - Brief description of the project and technologies used.
-  
-- **Project 2**: [Project Name](link to the project)
-  - Brief description of the project and technologies used.
-
-- **Contributions**:
-  - [Repository Name](link to the repository)
-    - Brief description of your contributions.
-
----
 
 ## Get in Touch
 
